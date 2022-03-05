@@ -6,7 +6,7 @@
 
 Languages I used : 
 
-|| [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ||
+|| [![enter image description here](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) ||
 [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ||
 [Java](https://docs.oracle.com/en/java/) ||
 [Python](https://docs.python.org/3/) ||
