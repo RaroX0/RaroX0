@@ -1,7 +1,10 @@
-- 👋 Yoo, Raro here...
-- 👀 I’m super interested in .net and game developement...
-- 🌱 I’m currently learning [![enter image description here](https://i.imgur.com/CAEcGlR.png)](https://umod.org/documentation) for Rust...
-- 📫 How to reach me on discord: Acnologia#2966...
+- Yoo, Raro here!!
+- Your average friendly neighbourhood dragon 🐲!    
+- I’m super into .net and game developement.
+- I’m currently learning [![enter image description here](https://i.imgur.com/CAEcGlR.png)](https://umod.org/documentation) for Rust.
+- How to reach me on discord: Acnologia#2966.
+- Always open to learning.
+- Feel free to ask for help about the languages I know about. I try to help as much as I can.
 
 
 Languages I used : 
