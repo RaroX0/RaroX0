@@ -1,4 +1,5 @@
-- Yoo, Raro here!!
+Yoo, Raro here!!
+________________
 - Your average friendly neighbourhood dragon 🐲!    
 - I’m super into .net and game developement.
 - I’m currently learning [![enter image description here](https://i.imgur.com/CAEcGlR.png)](https://umod.org/documentation) for Rust.
