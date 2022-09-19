@@ -1,7 +1,7 @@
 Yoo, Raro here!!
 ________________
 - Your average friendly neighbourhood dragon 🐲!    
-- I’m super into .net and game developement.
+- I’m super into game developement.
 - How to reach me on discord: Acnologia#2966.
 - Always open to learning.
 - Feel free to ask for help about the languages I know about. I try to help as much as I can.
