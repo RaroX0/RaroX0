@@ -1,15 +1,14 @@
-Yoo, Raro here!!
-________________
-- Your average friendly neighbourhood dragon 🐲!    
-- I’m super into game developement.
-- How to reach me on discord: acnooo.
-- Always open to learning.
-- Feel free to ask for help about the languages I know about. I try to help as much as I can.
-________________
+# Hey there, tis' Ray here! :3 💖✨
 
-Languages I used : 
+I'm your tech-savvy pal, passionate about bringing magic to game development! 🎮 
 
-[![enter image description here](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![enter image description here](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![enter image description here](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png)](https://docs.oracle.com/en/java/) [![enter image description here](https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png)](https://docs.python.org/3/) [![enter image description here](https://icons.iconarchive.com/icons/icons8/windows-8/256/Computer-Hardware-X86-icon.png)](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf) [![enter image description here](https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png)](https://kotlinlang.org/docs/home.html)
+🌸 Feel free to reach me on Discord: `acnooo`.
+
+📚 Always on the lookout for new adventures in learning and growing. Whether it's coding, game dev, or anything tech-related, I'm here to lend a helping hand and sprinkle some sparkle! 💻
+
+## Languages of Enchantment:
+
+[![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png)](https://docs.oracle.com/en/java/) [![Python](https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png)](https://docs.python.org/3/) [![Kotlin](https://seeklogo.com/images/K/kotlin-logo-4EA4DB3A08-seeklogo.com.png)](https://kotlinlang.org/docs/home.html)
 
 
 
