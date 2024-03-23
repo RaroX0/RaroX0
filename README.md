@@ -1,10 +1,10 @@
-# Hey there, tis' Ray! :3 💖
+# Hey there, tis' Ray! 
 
 I'm your tech-savvy pal, passionate about bringing magic✨ to computers!
 
-🌸 Feel free to reach me on Discord: `acnooo`.
+🌸 Feel free to reach out to me on Discord: `acnooo`.
 
-📚 Always on the lookout for new adventures in learning and growing. Whether it's coding, game dev, or anything tech-related, I'm here to lend a helping hand and sprinkle some sparkle! 💻
+📚 Always on the lookout for new adventures in learning and growing. Whether it's coding, game dev, or anything tech-related, I'm here to lend a helping hand! 💻
 
 ## Languages of Expertise:
 <p align="left"> 
